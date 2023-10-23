@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brew
-permalink: installation/linux/brew
+permalink: installation/linux-mac/brew
 type: installation
 display-title: "false"
 language: en

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bash
-permalink: installation/linux/bash
+permalink: installation/linux-mac/bash
 type: installation
 display-title: "false"
 language: en

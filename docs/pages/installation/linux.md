@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Linux or Mac
-permalink: installation/linux
+permalink: installation/linux-mac
 type: installation
 display-title: "false"
 language: en
